@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/blog-pyqt5-green.svg)](https://pyqt5.com)
 [![Gitter version](https://img.shields.io/gitter/room/gitterHQ/gitter.svg)](https://gitter.im/PyQt-5/Lobby)
 
-本社区是专门针对PyQt5学习和提升开设的博客网站，分析大家平时学习中记录的笔记和例子，以及对遇到的问题进行收集整理。
+https://pyqt5.com 社区是专门针对PyQt5学习和提升开设的博客网站，分享大家平时学习中记录的笔记和例子，以及对遇到的问题进行收集整理。
 
 ## [ActiveX](ActiveX)
 
@@ -87,10 +87,12 @@
 
 1. [QStackedWidget](QStackedWidget/)
     1. [左侧选项卡](多页面/QStackedWidget/左侧选项卡)
+    2. [多页面切换动画](动画/多页面切换动画)
 
 ## [多线程](多线程)
 
 1. [线程挂起恢复](多线程/线程挂起恢复.py)
+1. [线程休眠唤醒](多线程/线程休眠唤醒.py)
 1. [继承QThread](多线程/继承QThread.py)
 1. [moveToThread](多线程/moveToThread.py)
 
@@ -134,6 +136,9 @@
 
 1. [淡入淡出](动画/淡入淡出.py)
 1. [右键菜单动画](动画/右键菜单动画.py)
+1. [按钮放大缩小动画](动画/按钮放大缩小动画.py)
+1. [仿网页点阵特效](动画/点阵特效)
+1. [图片轮播动画](动画/多页面切换动画/图片轮播动画.py)
 
 ## [图表](图表)
 
