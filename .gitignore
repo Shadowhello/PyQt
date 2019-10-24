@@ -3,6 +3,9 @@ __pycache__/
 *.py[co]
 *$py.class
 
+Tmp
+Tmp/*
+
 # C extensions
 *.so
 
@@ -116,6 +119,8 @@ log.txt
 /tmp/*
 /Tmps
 /Tmps/*
+cache/*
+cache/
 /tmp/Material
 /tmp/Material/*
 *.pyc
