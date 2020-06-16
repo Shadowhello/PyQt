@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/blog-pyqt5-green.svg)](https://pyqt5.com)
 [![codebeat badge](https://codebeat.co/badges/d23d0dc8-aef3-43d2-96aa-e3215b2c9861)](https://codebeat.co/projects/github-com-pyqt5-pyqt-master)
 
-https://pyqt5.com 社区是专门针对PyQt5学习和提升开设的博客网站，分享大家平时学习中记录的笔记和例子，以及对遇到的问题进行收集整理。
+https://pyqt.site 论坛是专门针对PyQt5学习和提升开设的网站，分享大家平时学习中记录的笔记和例子，以及对遇到的问题进行收集整理。
 
 [![GitHub watchers](https://img.shields.io/github/watchers/PyQt5/PyQt.svg?style=social&label=Watch)](https://github.com/PyQt5/PyQt)
 [![GitHub stars](https://img.shields.io/github/stars/PyQt5/PyQt.svg?style=social)](https://github.com/PyQt5/PyQt)
@@ -67,6 +67,7 @@ https://pyqt5.com 社区是专门针对PyQt5学习和提升开设的博客网站
     - [通过json数据生成树形结构](QTreeWidget/ParsingJson.py)
     - [拖拽显示为图片](Test/partner_625781186/12.1拖拽显示为图片)
     - [点击父节点全选/取消全选子节点](QTreeWidget/testTreeWidget.py)
+    - [禁止父节点](QTreeWidget/ParentNodeForbid.py)
   - [QTableWidget](QTableWidget)
     - [Sqlalchemy动态拼接字段查询显示表格](QTableWidget/SqlQuery.py)
     - [TableWidget嵌入部件](QTableWidget/TableWidget.py)
@@ -112,6 +113,7 @@ https://pyqt5.com 社区是专门针对PyQt5学习和提升开设的博客网站
     - [显示.9格式图片（气泡）](QLabel/NinePatch.py)
     - [圆形图片](QLabel/CircleImage.py)
   - [QTextBrowser](QTextBrowser)
+    - [动态加载图片](QTextBrowser/DynamicRes.py)
   - [QGraphicsView](QGraphicsView)
     - [绘制世界地图](QGraphicsView/WorldMap.py)
     - [添加QWidget](QGraphicsView/AddQWidget.py)
@@ -124,6 +126,8 @@ https://pyqt5.com 社区是专门针对PyQt5学习和提升开设的博客网站
     - [百分比进度条](QProgressBar/PercentProgressBar.py)
     - [Metro进度条](QProgressBar/MetroCircleProgress.py)
     - [水波纹进度条](QProgressBar/WaterProgressBar.py)
+  - [QSplashScreen](QSplashScreen)
+    - [启动画面动画](QSplashScreen/GifSplashScreen.py)
   - [QOpenGLWidget](QOpenGLWidget)
   - [QWebView](QWebView)
     - [梦幻树](QWebView/DreamTree.py)
@@ -138,6 +142,7 @@ https://pyqt5.com 社区是专门针对PyQt5学习和提升开设的博客网站
     - [网页整体截图](QWebEngineView/ScreenShotPage.py)
     - [同网站不同用户](QWebEngineView/SiteDiffUser.py)
     - [拦截请求](QWebEngineView/BlockRequest.py)
+    - [拦截请求内容](QWebEngineView/BlockRequestData.py)
     - [浏览器下载文件](Test/partner_625781186/6.QWebEngineView下载文件)
     - [打印网页](Test/partner_625781186/17_打印预览qwebengineview)
 
@@ -242,6 +247,7 @@ https://pyqt5.com 社区是专门针对PyQt5学习和提升开设的博客网站
   - [背景连线动画](Demo/CircleLine.py)
   - [判断信号是否连接](Demo/IsSignalConnected.py)
   - [调用虚拟键盘](Demo/CallVirtualKeyboard.py)
+  - [动态忙碌光标](Demo/GifCursor.py)
 
 # QQ群
 
